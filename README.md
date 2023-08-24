@@ -4,7 +4,7 @@
 I'm a peruvian IT and Systems engineering and a gamer. Every IT project i develop from the ground up, from analysing the business, design and develop to solving the business problem, ensuring that i meet ISO standards. I like to play 
 moba, shotter, puzzle, strategy and adventure game. I like to make videos on youtube about thinks that i couldn't find in my native language "Spanish".
 
-<img align="right" alt="architecture" width = "400" src="https://sistemasoperativos502027821.files.wordpress.com/2018/08/software.gif">
+<img align="right" alt="architecture" width = "300" src="https://sistemasoperativos502027821.files.wordpress.com/2018/08/software.gif">
 
 
 
